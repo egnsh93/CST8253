@@ -1,0 +1,33 @@
+﻿html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-color: #ffefd5;
+}
+
+.siteContainer {
+    padding-left: 30px;
+}
+
+.frmControls .frmLabel, .frmControls .frmTxtField {
+    display: inline-block;
+}
+
+.frmControls .frmLabel {
+    width: 130px;
+}
+
+.resultLabel {
+    display: block;
+    text-align: left;
+}
+
+.marginBottom10 {
+    margin-bottom: 10px;
+}
+
+.error {
+    color: #ff0000;
+}body {
+}
